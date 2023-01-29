@@ -1,0 +1,67 @@
+body{
+    background: linear-gradient(rgb(157, 157, 248),rgb(27, 248, 119),rgb(0, 225, 255));
+
+    border: 3px solid black;
+    margin: 2px;
+    max-width: 700px;
+    margin: auto;
+    height: 100%;
+
+
+}
+
+.server2 {
+    border: 6px solid black;
+    margin: 2px;
+    max-width: 700px;
+    margin: auto;
+
+}
+
+.server-start {
+
+    float: left;
+    margin-left: 125px;
+    margin-top: 20px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: blue;
+    margin: 2px;
+    max-width: 700px;
+    margin: auto;
+
+}
+.text1{
+    color: rgb(0, 0, 0);
+}
+.href a{
+
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 20px;
+    border: 2px solid black;
+
+
+}
+.href a:hover{
+    cursor: pointer;
+    background: #66ff86;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+
+}
+.info{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-style:inherit;
+}
+.text1{
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+}
